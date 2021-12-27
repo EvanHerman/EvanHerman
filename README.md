@@ -4,7 +4,7 @@ I'm a **software engineer** working @GoDaddy on the WordPress Experience team. I
 
 In my free time I love haging out with my wife, our 7 cats and our dog. I am an animal lover, and supremely passionate about rescuing animals. I love the outdoors and everything tech.
 
-I currently reside in Lancaster, PA. I love to cook, hike, skateboard, and explore new areas around the city. You can find follow me [Twitter](https://twitter.com/EvanMHerman) or view my website, [Twitter](https://www.evan-herman.com).
+I currently reside in Lancaster, PA. I love to cook, hike, skateboard, and explore new areas around the city. You can find follow me [Twitter](https://twitter.com/EvanMHerman) or view my website, [https://www.evan-herman.com](https://www.evan-herman.com).
 
 A few of the projects I havee worked on include:
 - [WPIcons](https://www.wpicons.com)
