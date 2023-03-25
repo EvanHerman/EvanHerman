@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates (every 3 hours)
+  schedule: [{cron: "0 */3 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["main"]}
@@ -18,7 +18,6 @@ jobs:
           user: EvanHerman
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
           config_padding: 0, 12%
           config_timezone: America/New_York
           plugin_achievements: yes
