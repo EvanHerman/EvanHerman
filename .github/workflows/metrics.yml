@@ -18,6 +18,7 @@ jobs:
           user: EvanHerman
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: columns
           config_padding: 0, 12%
           config_timezone: America/New_York
           plugin_achievements: yes
