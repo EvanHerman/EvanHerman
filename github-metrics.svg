@@ -1745,7 +1745,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 448k out of 128m repositories</span>
+                                    <span class="gh">ranked 448k out of 98.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 27 times</div>
                             </div>
@@ -1890,7 +1890,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 911k out of 128m repositories</span>
+                                    <span class="gh">ranked 911k out of 98.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 28 stars</div>
                             </div>
@@ -1905,7 +1905,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.1155778894472363 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.8944723618090453 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -1925,7 +1925,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
                                     <span class="prefix"></span>
                                     Chatter
                                 </div>
-                                <div class="text">Participated in discussions 5 times</div>
+                                <div class="text">Participated in discussions 6 times</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
@@ -2041,7 +2041,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Mar 2024, 14:06:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2024, 17:06:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
