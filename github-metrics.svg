@@ -1352,7 +1352,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.678986995208753 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.763860369609876 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1454,7 +1454,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 308k out of 149m users</span>
+                                    <span class="gh">ranked 308k out of 152m users</span>
                                 </div>
                                 <div class="text">Published 81 public repositories</div>
                             </div>
@@ -1671,7 +1671,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 147k out of 149m users</span>
+                                    <span class="gh">ranked 147k out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 88 users</div>
                             </div>
@@ -1717,7 +1717,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 460k out of 211m repositories</span>
+                                    <span class="gh">ranked 460k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 28 times</div>
                             </div>
@@ -1862,7 +1862,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 989k out of 211m repositories</span>
+                                    <span class="gh">ranked 989k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -2013,7 +2013,7 @@ Building awesome things for WordPress. API addict, cat herder and open sourcerer
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jan 2025, 07:09:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2025, 10:06:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
